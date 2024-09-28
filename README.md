@@ -4,7 +4,7 @@
   
 - 🌱 **_I’m currently learning advanced RFID systems, microcontroller-based development, and full-stack integration with Python, Flask, and frontend technologies._**
   
-- 💻 **_I’m skilled in both computer science and electronics, with hands-on experience in embedded systems, circuit design, and software development._**
+- 💻 **_I’m skilled in both computer science and electronics ⚡🔌, with hands-on experience in embedded systems, circuit design, and software development._**
   
 - 💞️ **_I’m looking to collaborate on projects related to embedded systems, IoT, and automation._**
   
