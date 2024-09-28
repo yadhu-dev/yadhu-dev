@@ -90,10 +90,10 @@
    
 4. **RFID System Development (Hardware & Software)**: Worked on developing the full RFID system, including hardware design and software integration using Python and Flask.
    
-5. **Seat Belt System for E-Vehicles**: Designed a smart seat belt system for electric vehicles that ensures safety before the vehicle can start.
+5. **Seat Belt System for E-Vehicles**:
    
 6. **IoT Plant Monitoring System**: Created an IoT-based plant monitoring system that tracks soil moisture, temperature, and humidity, and sends real-time data for better plant care.
     
-7. **Water Tank Level Monitoring System**: Developed a wireless water level monitoring system using ESP, where LEDs indicate the water level in the tank and a buzzer sounds when the tank is full. The system is fully automated and provides real-time monitoring.
+7. **Water Tank Level Monitoring System**: 
 
 
