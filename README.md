@@ -2,7 +2,7 @@
 
 - **👀 I’m interested in electronics ⚡ and computer science 💻, and building innovative tech projects 🔧.**
   
-- **🌱 I’m currently learning advanced RFID systems 📡, microcontroller-based development 🔋, and full-stack integration with Python, Flask, and frontend technologies 🖥️.**
+- **🌱 I’m currently learning Advanced RFID systems 📡,Advanced Communication 🛰️, microcontroller-based development 🔋, and full-stack integration with Python, Flask, and frontend technologies 🖥️.**
   
 - **💻 I’m skilled in both computer science 💻 and electronics ⚡, with hands-on experience in embedded systems, circuit design, and software development.**
   
