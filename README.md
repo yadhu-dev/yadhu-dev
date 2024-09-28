@@ -33,6 +33,7 @@
 - **Bipolar Junction Transistor (BJT)**
 - **Semiconductor Devices**
 - **Printed Circuit Board (PCB) Design**
+- **Proteus Circuit Simulations**
 - **Schematic**
 - **Soldering**
 - **VHDL**
