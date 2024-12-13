@@ -1,18 +1,18 @@
 ## Hi there 👋, I’m @yadhu-dev
 
-- **👀 I’m interested in electronics ⚡ and computer science 💻, and building innovative tech projects 🔧.**
+- **I’m interested in electronics ⚡ and computer science 💻, and building innovative tech projects .**
   
-- **🌱 I’m currently learning Advanced RFID systems 📡,Advanced Communication 🛰️, microcontroller-based development 🔋, and full-stack integration with Python, Flask, and frontend technologies 🖥️.**
+- **I’m currently learning Advanced RFID systems 📡,Advanced Communication 🛰️, microcontroller-based development 🔋, and full-stack integration with Python, Flask, and frontend technologies 🖥️.**
   
-- **💻 I’m skilled in both computer science 💻 and electronics ⚡, with hands-on experience in embedded systems, circuit design, and software development.**
+- **I’m skilled in both computer science 💻 and electronics ⚡, with hands-on experience in embedded systems, circuit design, and software development.**
   
-- **💞️ I’m looking to collaborate on projects related to embedded systems, IoT, and automation.**
+- **I’m looking to collaborate on projects related to embedded systems, IoT, and automation.**
   
-- **📫 How to reach me: [yadhumohan21@gmail.com](mailto:yadhumohan21@gmail.com) or through my LinkedIn profile [LinkedIn](https://www.linkedin.com/in/yadhulmohan)**
+- **How to reach me: [yadhumohan21@gmail.com](mailto:yadhumohan21@gmail.com) or through my LinkedIn profile [LinkedIn](https://www.linkedin.com/in/yadhulmohan)**
   
-- **😄 Pronouns: He/Him**
+- **Pronouns: He/Him**
   
-- **⚡ Fun fact: I enjoy blending hardware ⚡ and software 💻 to create practical tech solutions!**
+- **Fun fact: I enjoy blending hardware ⚡ and software 💻 to create practical tech solutions!**
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -64,7 +64,7 @@
 - **Web Applications**
 - **Shell Scripting** (Bash, Linux Commands, Extract Transform and Load - ETL)
 - **Java**
-- **Data Science**
+- **Python**
   - Python for Data Science, AI & Development
   - Data Analysis
   - Matplotlib
